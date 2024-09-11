@@ -1,1 +1,5 @@
 classe A
+
+funcao xpto() {
+  return 1;
+}
