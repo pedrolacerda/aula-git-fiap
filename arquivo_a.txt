@@ -3,3 +3,7 @@ classe A
 funcao xpto() {
   return 1;
 }
+
+funcao zywx() {
+  return 2;
+}

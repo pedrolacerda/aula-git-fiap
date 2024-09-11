@@ -1,3 +1,9 @@
 classe B
 
-nova linha
+funcao xpto() {
+  return 2;
+}
+
+funcao abcd() {
+  return 3;
+}
