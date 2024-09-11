@@ -7,3 +7,7 @@ funcao xpto() {
 funcao zywx() {
   return 2;
 }
+
+funcao abcd() {
+  return 3;
+}
