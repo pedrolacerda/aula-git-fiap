@@ -25,3 +25,7 @@ funcao e_par() {
     print("oi");
   return true;
 }
+
+funcao minimo_multiplo_comum() {
+  return 2;
+}
