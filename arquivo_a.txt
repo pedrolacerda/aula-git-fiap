@@ -20,3 +20,7 @@ funcao efgh() {
 funcao ordena_lista() {
   return lista_ordenada;
 }
+
+funcao e_par() {
+  return true;
+}
