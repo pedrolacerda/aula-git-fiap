@@ -11,3 +11,7 @@ funcao zywx() {
 funcao abcd() {
   return 3;
 }
+
+funcao efgh() {
+  return 4;
+}

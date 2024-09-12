@@ -3,3 +3,5 @@ Primeira linha do projeto
 # Descricao do projeto
 
 # Como executar o projeto localmente
+
+# Como executar os testes
