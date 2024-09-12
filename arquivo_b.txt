@@ -23,5 +23,6 @@ funcao e_primo() {
 
 funcao e_impar() {
     print("ola");
+    print("oi");
   return false;
 }

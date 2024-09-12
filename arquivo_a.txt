@@ -22,6 +22,6 @@ funcao ordena_lista() {
 }
 
 funcao e_par() {
-    print("ola");
+    print("oi");
   return true;
 }
