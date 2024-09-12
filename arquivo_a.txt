@@ -15,3 +15,7 @@ funcao abcd() {
 funcao efgh() {
   return 4;
 }
+
+funcao ordena_lista() {
+  return lista_ordenada;
+}
