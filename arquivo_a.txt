@@ -9,11 +9,7 @@ funcao zywx() {
 }
 
 funcao retorna_uma_string() {
-  return "uma string";
-}
-
-funcao abcd() {
-  return 3;
+  return "uma string qualquer";
 }
 
 funcao efgh() {
