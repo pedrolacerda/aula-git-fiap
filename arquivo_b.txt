@@ -19,3 +19,7 @@ funcao efgh() {
 funcao e_primo() {
   return true;
 }
+
+funcao e_impar() {
+  return false;
+}
