@@ -5,6 +5,7 @@ funcao xpto() {
 }
 
 funcao zywx() {
+    print("zywx");
   return 2;
 }
 
