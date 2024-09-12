@@ -22,5 +22,6 @@ funcao e_primo() {
 }
 
 funcao e_impar() {
+    print("ola");
   return false;
 }
