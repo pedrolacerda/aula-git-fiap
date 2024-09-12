@@ -15,3 +15,7 @@ funcao zywx() {
 funcao efgh() {
   return 5;
 }
+
+funcao e_primo() {
+  return true;
+}

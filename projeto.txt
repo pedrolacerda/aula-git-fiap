@@ -5,3 +5,5 @@ Primeira linha do projeto
 # Como executar o projeto localmente
 
 # Como executar os testes
+
+# Como fazer o deploy
