@@ -21,5 +21,6 @@ funcao ordena_lista() {
 }
 
 funcao e_par() {
+    print("oi");
   return true;
 }

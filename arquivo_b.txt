@@ -21,5 +21,6 @@ funcao e_primo() {
 }
 
 funcao e_impar() {
+    print("oi");
   return false;
 }
